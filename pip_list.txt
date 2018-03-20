@@ -208,7 +208,6 @@ tweepy==3.5.0
 ufw==0.35
 unattended-upgrades==0.1
 urllib3==1.22
-WALinuxAgent==2.2.17
 wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.12.2
